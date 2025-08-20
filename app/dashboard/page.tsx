@@ -56,6 +56,13 @@ export default function Dashboard() {
 
 
         </div>
+
+        {/* 2 Cards */}
+        <div className="flex">
+            <div className="w-[300px] h-[300px] border-2 border-amber-700"></div>
+             <div className="w-[300px] h-[300px] border-2 border-amber-700"></div>
+
+        </div>
         <div>
 
         </div>
